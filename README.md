@@ -27,18 +27,18 @@ I have worked across industries like **Fintech, Healthcare, IoT, and Media**, he
 - Integrated pipelines with **GitHub Actions, BrowserStack, Google Cloud, Slack notifications**.  
 - Represented QA in **client interactions, Agile ceremonies, and leadership syncs**.  
 
-### 🔧 LTIMindtree (Client: Scania AB) | SDET *(Nov 2024 – Jan 2025)*  
+### <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/LTIMindtree_Logo.svg" alt="LTIMindtree" width="40"/> LTIMindtree (Client: Scania AB) | SDET *(Nov 2024 – Jan 2025)*  
 - Tested **IIoT/IoT systems** using MQTT protocol.  
 - Designed **E2E IoT workflows**, ensuring device communication & data integrity.  
 - Troubleshot performance & connectivity issues in IoT systems.  
 
-### 🎬 Accenture (Client: Walt Disney) | SDET *(Jan 2023 – Nov 2024)*  
+### <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Accenture_logo.svg" alt="Accenture" width="40"/> Accenture (Client: Walt Disney) | SDET *(Jan 2023 – Nov 2024)*  
 - Built an **API automation framework** (TypeScript + Node.js + Mocha) from scratch.  
 - Automated APIs for **Experience Access** and **Travel Trade Connectivity** projects.  
 - Reduced defects by **90%** through regression testing.  
 - Improved onboarding efficiency by **40%** via documentation & training.  
 
-### 🏦 Tata Consultancy Services (Client: Standard Life) | SDET *(Aug 2020 – Jan 2023)*  
+### <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Tata_Consultancy_Services_old_logo.svg" alt="TCS" width="40"/> Tata Consultancy Services (Client: Standard Life) | SDET *(Aug 2020 – Jan 2023)*  
 - Led a **BAT Automation Team** (4 members) for **Diligenta** (UK-based FCA subsidiary).  
 - Automated 3000+ scripts, boosted execution efficiency by **70%**.  
 - Coordinated across **System Testing, Deployment, Development, and Manual QA teams**.  
