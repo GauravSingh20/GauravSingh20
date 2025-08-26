@@ -2,7 +2,7 @@
 
 💻 **Lead Consultant | SDET | Test Automation Specialist**  
 📍 Kolkata, India  
-📫 gaurav93399@gmail.com | 📱 +91 7823009740  
+📫 gaurav93399@gmail.com | 📱 +91 782*******  
 🌐 [Portfolio](https://gauravsingh20.github.io/gauravsingh/) | [LinkedIn](https://linkedin.com/in/gauravsingh-sdet)  
 
 ---
