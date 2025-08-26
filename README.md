@@ -75,7 +75,7 @@ I have worked across industries like **Fintech, Healthcare, IoT, and Media**, he
 
 ## 🌟 Daily Quote  
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&background=transparent)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&background=transparent)
 
 ---
 ✨ *Thanks for visiting my profile! Feel free to connect with me or check out my pinned projects below.*  
