@@ -44,53 +44,22 @@ I have worked across industries like **Fintech, Healthcare, IoT, and Media**, he
 - Coordinated across **System Testing, Deployment, Development, and Manual QA teams**.  
 
 ---
-
 ## 🛠️ Skills  
 
-### 🔹 Programming Languages  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-
-### 🔹 Databases  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-
-### 🔹 GUI Testing  
-![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)  
-![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)  
-![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)  
-
-### 🔹 API Testing  
-REST API, RequestPromise, GraphQL, Postman, Swagger, Splunk, Node.js, PayPal, Stripe  
-
-### 🔹 Mobile Testing  
-Appium, Appium Inspector, WDIO, XCUITest, UIAutomator2, BrowserStack, Detox, TestFlight  
-
-### 🔹 Test Management & Reporting  
-HP ALM, JIRA, TCS MasterCraft DevPlus, TestRail, XLog  
-
-### 🔹 CI/CD & DevOps  
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)  
-
-### 🔹 AI Tools  
-ChatGPT, Claude Sonnet 4  
-
-### 🔹 Analytics & Customer Engagement  
-Amplitude, Braze, Intercom, Firebase, Crashlytics  
-
-### 🔹 Client Engagement  
-Client interaction, Requirement gathering, Feedback management, Cross-functional collaboration  
-
-### 🔹 SDLC Models & Frameworks  
-Agile, Waterfall, BDD, TestNG, Hybrid  
-
-### 🔹 Soft Skills  
-Problem-solving & Decision making, Leadership quality, Teamwork, Documentation  
+| Category | Skills |
+|----------|--------|
+| 💻 **Programming Languages** | Java, TypeScript |
+| 🗄️ **Database** | MySQL |
+| 🖥️ **GUI Testing** | Selenium WebDriver, Cucumber, Playwright |
+| 🔌 **API Testing** | REST API, RequestPromise, GraphQL, Postman, Swagger, Splunk, Node.js, PayPal, Stripe |
+| 📱 **Mobile Testing** | Appium, Appium Inspector, WDIO, XCUITest, UIAutomator2, BrowserStack, Detox, TestFlight |
+| 📊 **Test Management & Reporting** | HP ALM, JIRA, TCS MasterCraft DevPlus, TestRail, XLog |
+| ⚙️ **CI/CD & DevOps** | GIT, GitHub Actions, Jenkins, Maven, Docker, Eclipse, Visual Studio |
+| 🤖 **AI Tools** | ChatGPT, Claude Sonnet 4 |
+| 📈 **Analytics & Customer Engagement** | Amplitude, Braze, Intercom, Firebase, Crashlytics |
+| 🤝 **Client Engagement** | Client interaction, Requirement gathering, Feedback management, Cross-functional collaboration |
+| 🧩 **SDLC Models & Frameworks** | Agile, Waterfall, BDD, TestNG, Hybrid |
+| 🌟 **Soft Skills** | Problem-solving & Decision making, Leadership quality, Teamwork, Documentation |
 
 ---
 
