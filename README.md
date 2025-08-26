@@ -20,25 +20,25 @@ I have worked across industries like **Fintech, Healthcare, IoT, and Media**, he
 
 ## 🏢 Work Experience  
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Genpact_logo.svg" alt="Genpact" width="40"/> Genpact (Client: EverCommerce) | Lead Consultant *(Jan 2025 – Present)*  
+### <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Genpact_logo.svg" alt="Genpact" width="60"/> Genpact (Client: EverCommerce) | Lead Consultant *(Jan 2025 – Present)*  
 - Led transition of QA ownership for **InvoiceSimple** from Test Launcher to Genpact.  
 - Managed and mentored a cross-functional team of **8 (4 QEs + 4 SDETs)**.  
 - Built scalable automation frameworks using **Playwright + TypeScript** (Web) and **Appium + WebdriverIO** (Mobile).  
 - Integrated pipelines with **GitHub Actions, BrowserStack, Google Cloud, Slack notifications**.  
 - Represented QA in **client interactions, Agile ceremonies, and leadership syncs**.  
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/LTIMindtree_Logo.svg" alt="LTIMindtree" width="40"/> LTIMindtree (Client: Scania AB) | SDET *(Nov 2024 – Jan 2025)*  
+### <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/LTIMindtree_Logo.svg" alt="LTIMindtree" width="60"/> LTIMindtree (Client: Scania AB) | SDET *(Nov 2024 – Jan 2025)*  
 - Tested **IIoT/IoT systems** using MQTT protocol.  
 - Designed **E2E IoT workflows**, ensuring device communication & data integrity.  
 - Troubleshot performance & connectivity issues in IoT systems.  
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Accenture_logo.svg" alt="Accenture" width="40"/> Accenture (Client: Walt Disney) | SDET *(Jan 2023 – Nov 2024)*  
+### <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Accenture_logo.svg" alt="Accenture" width="60"/> Accenture (Client: Walt Disney) | SDET *(Jan 2023 – Nov 2024)*  
 - Built an **API automation framework** (TypeScript + Node.js + Mocha) from scratch.  
 - Automated APIs for **Experience Access** and **Travel Trade Connectivity** projects.  
 - Reduced defects by **90%** through regression testing.  
 - Improved onboarding efficiency by **40%** via documentation & training.  
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Tata_Consultancy_Services_old_logo.svg" alt="TCS" width="40"/> Tata Consultancy Services (Client: Standard Life) | SDET *(Aug 2020 – Jan 2023)*  
+### <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Tata_Consultancy_Services_old_logo.svg" alt="TCS" width="60"/> Tata Consultancy Services (Client: Standard Life) | SDET *(Aug 2020 – Jan 2023)*  
 - Led a **BAT Automation Team** (4 members) for **Diligenta** (UK-based FCA subsidiary).  
 - Automated 3000+ scripts, boosted execution efficiency by **70%**.  
 - Coordinated across **System Testing, Deployment, Development, and Manual QA teams**.  
