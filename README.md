@@ -20,7 +20,7 @@ I have worked across industries like **Fintech, Healthcare, IoT, and Media**, he
 
 ## 🏢 Work Experience  
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/ʘ/path/to/Genpact_logo.svg" alt="Genpact" width="40"/> Genpact (Client: EverCommerce) | Lead Consultant *(Jan 2025 – Present)*  
+### <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Genpact_logo.svg" alt="Genpact" width="40"/> Genpact (Client: EverCommerce) | Lead Consultant *(Jan 2025 – Present)*  
 - Led transition of QA ownership for **InvoiceSimple** from Test Launcher to Genpact.  
 - Managed and mentored a cross-functional team of **8 (4 QEs + 4 SDETs)**.  
 - Built scalable automation frameworks using **Playwright + TypeScript** (Web) and **Appium + WebdriverIO** (Mobile).  
