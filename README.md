@@ -73,11 +73,25 @@ I have worked across industries like **Fintech, Healthcare, IoT, and Media**, he
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Overview  
 
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravsingh20&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravsingh20&layout=compact&theme=radical)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gauravsingh20&theme=radical)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gauravsingh20&theme=radical)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gauravsingh20&theme=radical)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gauravsingh20&theme=radical)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gauravsingh20&theme=radical&utcOffset=8)
 
+---
+
+## 🌟 Daily Quote  
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+## 🎮 Play with Me  
+
+- [Tetris Game](https://your-username.github.io/tetris)  
+- [2048 Game](https://your-username.github.io/2048)
 ---
 
 ✨ *Thanks for visiting my profile! Feel free to connect with me or check out my pinned projects below.*  
